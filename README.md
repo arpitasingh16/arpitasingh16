@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Singh</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitasingh16&label=Profile%20views&color=0e75b6&style=flat" alt="arpitasingh16" /> </p>
-
 - 🔭 I’m currently working on **Web Development Projects.**
 
 - 🌱 I’m currently learning **Machine Learning.**
